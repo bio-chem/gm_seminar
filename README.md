@@ -1,1 +1,2 @@
-# gm_seminar
+# GM tool
+# Dino M.
