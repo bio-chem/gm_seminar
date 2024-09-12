@@ -1,0 +1,16 @@
+Metrics for SVM with linear kernel:
+Accuracy: 0.9941
+ROC AUC: 0.9533
+
+Metrics for SVM with poly kernel:
+Accuracy: 0.9923
+ROC AUC: 0.9061
+
+Metrics for SVM with rbf kernel:
+Accuracy: 0.9928
+ROC AUC: 0.9427
+
+Metrics for SVM with sigmoid kernel:
+Accuracy: 0.9931
+ROC AUC: 0.9557
+

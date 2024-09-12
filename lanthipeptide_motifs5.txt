@@ -1,0 +1,3 @@
+Peptide WP_373863361.1 has the following motifs: C..C.., C..C..C
+Peptide WP_373852497.1 has the following motifs: C..C.., C..C..C
+Peptide WP_194233303.1 has the following motifs: C..C..
